@@ -13,7 +13,7 @@ function App() {
     <>
       <h1>student info</h1>
       <button onClick={showMessage}>Click Me</button>
-      <PropsEx name="Tahir" age="21" course="AIML" />
+      <PropsEx name="Atharv Kurane" age="21" course="CSE(AIML)" />
     </>
   );
 }
